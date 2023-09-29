@@ -1,5 +1,5 @@
- Notesapp
- AngularNoteTaker Angular Note Tracker App.  
- Technologies Used 
+Notesapp
+AngularNoteTaker Angular Note Tracker App.  
+Technologies Used 
 1) AngularJS
-2) 2) NodeJS based http-server (Optional) for running the app.
+2) NodeJS based http-server (Optional) for running the app.
